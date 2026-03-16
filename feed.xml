@@ -8,12 +8,12 @@
     <title>Kevin's Morning Briefing</title>
     <link>https://tcntryprd.github.io/morning-briefing-podcast</link>
     <atom:link href="https://tcntryprd.github.io/morning-briefing-podcast/feed.xml" rel="self" type="application/rss+xml"/>
-    <description>Daily morning briefing with news, weather, travel destinations, and scripture. Delivered fresh every morning at 5:30 AM CST.</description>
+    <description>Daily morning briefing with real news clips, Tulsa weather, business updates, tech news, scripture, and travel inspiration. Fresh every morning at 5:30 AM CST.</description>
     <language>en-us</language>
     <copyright>&#xA9; 2026 Kevin Starr</copyright>
-    <lastBuildDate>Mon, 16 Mar 2026 22:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 16 Mar 2026 23:42:52 +0000</lastBuildDate>
     <itunes:author>Kevin Starr</itunes:author>
-    <itunes:summary>Start your day informed and inspired with a personalized morning briefing covering local Tulsa news, national headlines, world events, tech updates, travel destinations, and daily scripture.</itunes:summary>
+    <itunes:summary>Start your day with Kevin's Morning Briefing - featuring real news from NPR, Fox Business headlines, Tulsa local coverage, tech updates, weather, daily scripture, and a dream travel destination.</itunes:summary>
     <itunes:owner>
         <itunes:name>Kevin Starr</itunes:name>
         <itunes:email>kevin@starrpartners.ai</itunes:email>
@@ -32,18 +32,17 @@
     </image>
     
     <item>
-        <title>Morning Briefing - March 16, 2026</title>
-        <description>Today's briefing includes local Tulsa news, national headlines, world events, tech updates, plus your travel destination and daily scripture.</description>
-        <pubDate>Mon, 16 Mar 2026 10:00:00 +0000</pubDate>
+        <title>Morning Briefing - 2026-03-16</title>
+        <description>Your daily morning briefing with news, weather, business, tech, scripture, and travel.</description>
+        <pubDate>Mon, 16 Mar 2026 00:00:00 +0000</pubDate>
         <enclosure url="https://tcntryprd.github.io/morning-briefing-podcast/episodes/briefing-2026-03-16.mp3" 
                    type="audio/mpeg" 
-                   length="2261181"/>
+                   length="5701842"/>
         <guid isPermaLink="false">briefing-2026-03-16</guid>
-        <itunes:title>Morning Briefing - March 16, 2026</itunes:title>
-        <itunes:duration>141</itunes:duration>
+        <itunes:title>Morning Briefing - 2026-03-16</itunes:title>
+        <itunes:duration>356</itunes:duration>
         <itunes:explicit>false</itunes:explicit>
         <itunes:episodeType>full</itunes:episodeType>
-        <itunes:image href="https://tcntryprd.github.io/morning-briefing-podcast/cover.jpg"/>
     </item>
 </channel>
 </rss>
