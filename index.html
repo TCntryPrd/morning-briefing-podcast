@@ -1,0 +1,131 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Kevin's Morning Briefing</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta charset="UTF-8">
+    <style>
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+            line-height: 1.6;
+            color: #333;
+            max-width: 800px;
+            margin: 0 auto;
+            padding: 20px;
+            background: #f4f4f4;
+        }
+        .container {
+            background: white;
+            border-radius: 10px;
+            box-shadow: 0 0 20px rgba(0,0,0,0.1);
+            overflow: hidden;
+        }
+        .header {
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            color: white;
+            padding: 40px;
+            text-align: center;
+        }
+        .header h1 {
+            margin: 0;
+            font-size: 2.5em;
+        }
+        .header p {
+            margin: 10px 0;
+            font-size: 1.2em;
+            opacity: 0.9;
+        }
+        .subscribe {
+            display: inline-block;
+            background: white;
+            color: #667eea;
+            padding: 10px 20px;
+            border-radius: 25px;
+            text-decoration: none;
+            margin-top: 20px;
+            font-weight: bold;
+        }
+        .content {
+            padding: 40px;
+        }
+        .episode {
+            background: #f8f9fa;
+            border-radius: 8px;
+            padding: 20px;
+            margin-bottom: 20px;
+        }
+        .episode h3 {
+            margin: 0 0 10px 0;
+            color: #667eea;
+        }
+        .episode-date {
+            color: #666;
+            font-size: 0.9em;
+        }
+        audio {
+            width: 100%;
+            margin-top: 15px;
+        }
+        .platforms {
+            text-align: center;
+            padding: 20px;
+            background: #f8f9fa;
+        }
+        .platforms h3 {
+            margin-bottom: 20px;
+        }
+        .platform-links a {
+            display: inline-block;
+            margin: 5px;
+            padding: 10px 20px;
+            background: #667eea;
+            color: white;
+            text-decoration: none;
+            border-radius: 5px;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="header">
+            <h1>🌅 Kevin's Morning Briefing</h1>
+            <p>Your daily dose of news, weather, and inspiration</p>
+            <p>Fresh every morning at 5:30 AM CST</p>
+            <a href="feed.xml" class="subscribe">📡 Subscribe via RSS</a>
+        </div>
+        
+        <div class="content">
+            <h2>About the Podcast</h2>
+            <p>Start your day informed and inspired with a personalized morning briefing covering:</p>
+            <ul>
+                <li>📰 Local Tulsa news</li>
+                <li>🇺🇸 National headlines</li>
+                <li>🌍 World events</li>
+                <li>💻 Tech & AI updates</li>
+                <li>✈️ Travel destination of the day</li>
+                <li>📖 Daily scripture & reflection</li>
+            </ul>
+            
+            <h2>Latest Episode</h2>
+            <div class="episode">
+                <h3>Morning Briefing - March 16, 2026</h3>
+                <p class="episode-date">Published: March 16, 2026 at 5:00 AM</p>
+                <audio controls>
+                    <source src="episodes/briefing-2026-03-16.mp3" type="audio/mpeg">
+                    Your browser does not support the audio element.
+                </audio>
+            </div>
+        </div>
+        
+        <div class="platforms">
+            <h3>Listen on your favorite platform</h3>
+            <p>Coming soon to:</p>
+            <div class="platform-links">
+                <a href="#">Apple Podcasts</a>
+                <a href="#">Spotify</a>
+                <a href="#">Google Podcasts</a>
+            </div>
+        </div>
+    </div>
+</body>
+</html>
