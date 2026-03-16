@@ -4,7 +4,7 @@
      xmlns:content="http://purl.org/rss/1.0/modules/content/">
 <channel>
     <title>Kevin's Morning Briefing</title>
-    <link>https://TCntryPrd.github.io/morning-briefing-podcast</link>
+    <link>https://tcntryprd.github.io/morning-briefing-podcast</link>
     <description>Daily morning briefing with news, weather, travel destinations, and scripture. Delivered fresh every morning at 5:30 AM CST by your AI assistant Viktor.</description>
     <language>en-us</language>
     <copyright>© 2026 Kevin Starr</copyright>
@@ -19,16 +19,16 @@
     <itunes:category text="News">
         <itunes:category text="Daily News"/>
     </itunes:category>
-    <itunes:image href="https://TCntryPrd.github.io/morning-briefing-podcast/cover.jpg"/>
+    <itunes:image href="https://tcntryprd.github.io/morning-briefing-podcast/cover.jpg"/>
     
     <item>
         <title>Morning Briefing - March 16, 2026</title>
         <description>Today's briefing includes local Tulsa news, national headlines from NPR and Reuters, world events from BBC, tech updates from TechMeme and Hacker News, plus your travel destination (Reykjavik, Iceland) and daily scripture (Proverbs 16:9).</description>
         <pubDate>Mon, 16 Mar 2026 10:00:00 +0000</pubDate>
-        <enclosure url="https://TCntryPrd.github.io/morning-briefing-podcast/episodes/briefing-2026-03-16.mp3" 
+        <enclosure url="https://tcntryprd.github.io/morning-briefing-podcast/episodes/briefing-2026-03-16.mp3" 
                    type="audio/mpeg" 
                    length="2304876"/>
-        <guid isPermaLink="true">https://TCntryPrd.github.io/morning-briefing-podcast/episodes/briefing-2026-03-16.mp3</guid>
+        <guid isPermaLink="true">https://tcntryprd.github.io/morning-briefing-podcast/episodes/briefing-2026-03-16.mp3</guid>
         <itunes:duration>2:30</itunes:duration>
         <itunes:explicit>no</itunes:explicit>
     </item>
