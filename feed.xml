@@ -11,7 +11,7 @@
     <description>A 45-60 minute daily morning show with bipartisan news coverage. Hosted by Maya and Jess featuring NPR, Fox News, local Tulsa coverage, Oklahoma state news, business updates, tech, weather, daily scripture, and a dream travel destination.</description>
     <language>en-us</language>
     <copyright>&#xA9; 2026 Kevin Starr</copyright>
-    <lastBuildDate>Tue, 17 Mar 2026 05:01:14 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 17 Mar 2026 15:19:23 +0000</lastBuildDate>
     <itunes:author>Kevin Starr</itunes:author>
     <itunes:summary>Your daily morning briefing with balanced bipartisan news, local Oklahoma coverage, business, tech, weather, scripture, and travel inspiration. Hosted by Maya and Jess.</itunes:summary>
     <itunes:owner>
@@ -37,10 +37,10 @@
         <pubDate>Tue, 17 Mar 2026 00:00:00 +0000</pubDate>
         <enclosure url="https://tcntryprd.github.io/morning-briefing-podcast/episodes/briefing-2026-03-17.mp3" 
                    type="audio/mpeg" 
-                   length="15719905"/>
+                   length="15925959"/>
         <guid isPermaLink="false">briefing-2026-03-17</guid>
         <itunes:title>Morning Briefing - 2026-03-17</itunes:title>
-        <itunes:duration>2700</itunes:duration>
+        <itunes:duration>995</itunes:duration>
         <itunes:explicit>false</itunes:explicit>
         <itunes:episodeType>full</itunes:episodeType>
     </item>
@@ -54,7 +54,7 @@
                    length="5701842"/>
         <guid isPermaLink="false">briefing-2026-03-16</guid>
         <itunes:title>Morning Briefing - 2026-03-16</itunes:title>
-        <itunes:duration>2700</itunes:duration>
+        <itunes:duration>356</itunes:duration>
         <itunes:explicit>false</itunes:explicit>
         <itunes:episodeType>full</itunes:episodeType>
     </item>
