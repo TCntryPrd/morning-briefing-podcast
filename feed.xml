@@ -11,7 +11,7 @@
     <description>Daily morning briefing with real news clips, Tulsa weather, business updates, tech news, scripture, and travel inspiration. Fresh every morning at 5:30 AM CST.</description>
     <language>en-us</language>
     <copyright>&#xA9; 2026 Kevin Starr</copyright>
-    <lastBuildDate>Tue, 17 Mar 2026 00:10:20 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 17 Mar 2026 00:46:48 +0000</lastBuildDate>
     <itunes:author>Kevin Starr</itunes:author>
     <itunes:summary>Start your day with Kevin's Morning Briefing - featuring real news from NPR, Fox Business headlines, Tulsa local coverage, tech updates, weather, daily scripture, and a dream travel destination.</itunes:summary>
     <itunes:owner>
@@ -37,10 +37,10 @@
         <pubDate>Tue, 17 Mar 2026 00:00:00 +0000</pubDate>
         <enclosure url="https://tcntryprd.github.io/morning-briefing-podcast/episodes/briefing-2026-03-17.mp3" 
                    type="audio/mpeg" 
-                   length="5784598"/>
+                   length="11617218"/>
         <guid isPermaLink="false">briefing-2026-03-17</guid>
         <itunes:title>Morning Briefing - 2026-03-17</itunes:title>
-        <itunes:duration>361</itunes:duration>
+        <itunes:duration>726</itunes:duration>
         <itunes:explicit>false</itunes:explicit>
         <itunes:episodeType>full</itunes:episodeType>
     </item>
